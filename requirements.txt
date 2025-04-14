@@ -1,0 +1,6 @@
+chromadb
+llama-index
+llama-index-embeddings-huggingface
+ollama
+httpx
+pypdf
